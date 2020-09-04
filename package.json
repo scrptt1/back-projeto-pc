@@ -12,6 +12,6 @@
     "express": "^4.16.4",
     "http-status": "^1.2.0",
     "mysql2": "^1.6.1",
-    "sequelize": "^4.41.0"
+    "sequelize": "^5.15.1"
   }
 }
